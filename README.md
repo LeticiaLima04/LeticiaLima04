@@ -1,20 +1,17 @@
+
 👋 **Olá, sou Letícia Lima!**
 
 📌 **Sobre Mim**  
-Sou estudante do **quinto semestre** de **Informática** no **IFCE Campus Maranguape**. Tenho 18 anos e sou apaixonada por **cinema**, **audiovisual**, **leitura**, **esportes** e **música**. Estou considerando seguir carreira em **Cinema e Audiovisual** ou **Relações Internacionais**.
+Sou estudante do **quinto semestre** do curso de **Informática** no **IFCE Campus Maranguape**, com 18 anos. Tenho grande interesse por **cinema**, **audiovisual**, **leitura**, **esportes** e **música**, e estou considerando seguir uma carreira nas áreas de **Cinema e Audiovisual** ou **Relações Internacionais**.
 
-🚀 **Interesses & Hobbies**  
-Em meu tempo livre, gosto de **ler** e jogar **vôlei**. Meu gosto musical é eclético, com preferência por sons mais acústicos, como **BK** e **Anavitoria**. Me considero uma pessoa **criativa** e tenho planos de **viajar para a Itália** no futuro.
+🚀 **Interesses e Hobbies**  
+Gosto de **ler** e, em meu tempo livre, costumo jogar **vôlei**. Meu gosto musical é bastante eclético, mas tenho preferência por músicas com um som mais acústico, como **BK** e **Anavitoria**. Me considero uma pessoa bem **criativa** e planejo, no futuro, embarcar em uma **aventura pela Itália**.
 
-# 🌟 Conhecimentos
-🚀 **Tecnologias e Linguagens:**
+🌟 **Pequenos Conhecimentos nas Seguintes Linguagens de Programação:**  
 
-  ➡️ **Python** - Desenvolvimento Web, automação, dados  
-  ➡️ **HTML & CSS** - Estrutura e Design de Sites  
-  ➡️ **JavaScript** - Sites Interativos  
-  ➡️ **Java** (aprendizado contínuo)
-
-**Navegue por mais e aprenda comigo!**
-
+- **Python**: Linguagem de programação de alto nível, utilizada em diversas áreas, como desenvolvimento web, automação e análise de dados.  
+- **HTML & CSS**: As linguagens fundamentais para o desenvolvimento de páginas web, onde o HTML define a estrutura e o CSS proporciona o design visual.  
+- **JavaScript**: Linguagem essencial para o desenvolvimento de sites interativos e dinâmicos, amplamente usada no front-end.  
+- **Java**: Estou aprendendo Java, uma linguagem amplamente utilizada no desenvolvimento de aplicativos e sistemas.
 
 🎉 **Obrigado por visitar meu perfil!**
